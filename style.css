@@ -1,0 +1,9 @@
+.container {
+    margin: 50px auto;
+    background-color: lightcoral;
+    display: inline-block;
+}
+body {
+    text-align: center;
+    background-color: burlywood;
+}
